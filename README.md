@@ -80,7 +80,7 @@ CUB-200-2011
 # Acknowledgements
 
 Thanks for the excellent opening sources
-[SpCL](https://github.com/yxgeee/SpCL). 
-[GS](https://github.com/ucas-vg/GroupSampling).
-[ClusterContrast](https://github.com/alibaba/cluster-contrast-reid).
+[SpCL](https://github.com/yxgeee/SpCL), 
+[GroupSampling](https://github.com/ucas-vg/GroupSampling), 
+[ClusterContrast](https://github.com/alibaba/cluster-contrast-reid), 
 [ICE](https://github.com/chenhao2345/ICE).
